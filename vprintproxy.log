@@ -1,0 +1,27 @@
+2014-08-17T15:14:40.101+01:00| vthread-3| I120: Log for VMware Workstation pid=7696 version=10.0.3 build=build-1895310 option=Release
+2014-08-17T15:14:40.101+01:00| vthread-3| I120: The process is 32-bit.
+2014-08-17T15:14:40.101+01:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-08-17T15:14:40.101+01:00| vthread-3| I120: Host is Windows 8 Pro, 64-bit  (Build 9200)
+2014-08-17T15:14:40.093+01:00| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-08-17T15:14:40.093+01:00| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-08-17T15:14:40.094+01:00| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-08-17T15:14:40.094+01:00| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-08-17T15:14:40.094+01:00| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-08-17T15:14:40.094+01:00| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-08-17T15:14:40.096+01:00| vthread-3| I120: Msg_Reset:
+2014-08-17T15:14:40.096+01:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Antony\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2014-08-17T15:14:40.096+01:00| vthread-3| I120: ----------------------------------------
+2014-08-17T15:14:40.096+01:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Antony\AppData\Roaming\VMware\config.ini. Using default values.
+2014-08-17T15:14:40.096+01:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-08-17T15:14:40.101+01:00| vthread-3| I120: Started, process id = 7696
+2014-08-17T15:14:40.101+01:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.4408.41.0
+2014-08-17T15:14:40.101+01:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.4408.18467.1
+2014-08-17T15:14:40.101+01:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-08-17T15:14:40.102+01:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-08-17T15:14:40.102+01:00| vthread-3| I120: Got entry/stop functions
+2014-08-17T15:14:40.102+01:00| vthread-3| I120: Calling TP 'entry' function
+2014-08-17T15:14:40.127+01:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.4408.18467.1" ...
+2014-08-17T17:45:25.049+01:00| vthread-3| I120: Mutex signalled
+2014-08-17T17:45:25.161+01:00| vthread-3| I120: Calling TP 'stop' function
+2014-08-17T17:45:28.637+01:00| vthread-3| I120: Cleaned up OK
+2014-08-17T17:45:28.637+01:00| vthread-3| I120: Exit
