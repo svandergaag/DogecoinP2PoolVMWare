@@ -1,0 +1,22 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=992362ec
+parentCID=ffffffff
+isNativeSnapshot="no"
+createType="monolithicFlat"
+
+# Extent description
+RW 41943040 FLAT "Dogecoin P2Pool-flat.vmdk" 0
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "2610"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "dc44c434931253196f9f4655992362ec"
+ddb.toolsVersion = "9410"
+ddb.uuid = "60 00 C2 98 d8 c8 c6 0e-13 a6 c1 7e 27 29 cf 77"
+ddb.virtualHWVersion = "10"
